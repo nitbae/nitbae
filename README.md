@@ -1,2 +1,2 @@
-Not like a Coder.
+Not a Coder.
 Just an awesome Mathematician.
